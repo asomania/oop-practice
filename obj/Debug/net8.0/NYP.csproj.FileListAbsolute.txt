@@ -1,0 +1,14 @@
+/Users/erenkucuk/Desktop/Projects/NYP/obj/Debug/net8.0/NYP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/erenkucuk/Desktop/Projects/NYP/obj/Debug/net8.0/NYP.AssemblyInfoInputs.cache
+/Users/erenkucuk/Desktop/Projects/NYP/obj/Debug/net8.0/NYP.AssemblyInfo.cs
+/Users/erenkucuk/Desktop/Projects/NYP/obj/Debug/net8.0/NYP.csproj.CoreCompileInputs.cache
+/Users/erenkucuk/Desktop/Projects/NYP/bin/Debug/net8.0/NYP
+/Users/erenkucuk/Desktop/Projects/NYP/bin/Debug/net8.0/NYP.deps.json
+/Users/erenkucuk/Desktop/Projects/NYP/bin/Debug/net8.0/NYP.runtimeconfig.json
+/Users/erenkucuk/Desktop/Projects/NYP/bin/Debug/net8.0/NYP.dll
+/Users/erenkucuk/Desktop/Projects/NYP/bin/Debug/net8.0/NYP.pdb
+/Users/erenkucuk/Desktop/Projects/NYP/obj/Debug/net8.0/NYP.dll
+/Users/erenkucuk/Desktop/Projects/NYP/obj/Debug/net8.0/refint/NYP.dll
+/Users/erenkucuk/Desktop/Projects/NYP/obj/Debug/net8.0/NYP.pdb
+/Users/erenkucuk/Desktop/Projects/NYP/obj/Debug/net8.0/NYP.genruntimeconfig.cache
+/Users/erenkucuk/Desktop/Projects/NYP/obj/Debug/net8.0/ref/NYP.dll
