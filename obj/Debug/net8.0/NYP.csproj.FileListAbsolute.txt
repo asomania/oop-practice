@@ -12,3 +12,4 @@
 /Users/erenkucuk/Desktop/Projects/NYP/obj/Debug/net8.0/NYP.pdb
 /Users/erenkucuk/Desktop/Projects/NYP/obj/Debug/net8.0/NYP.genruntimeconfig.cache
 /Users/erenkucuk/Desktop/Projects/NYP/obj/Debug/net8.0/ref/NYP.dll
+/Users/erenkucuk/Desktop/Projects/NYP/obj/Debug/net8.0/NYP.sourcelink.json
